@@ -1,0 +1,21 @@
+{
+  "name": "mafy/tenant",
+  "description": "",
+  "authors": [
+    {
+      "name": "Daniel Versiane",
+      "email": "daniel.versiane@gmail.com"
+    }
+  ],
+  "extra": {
+    "laravel": {
+      "providers": [],
+      "aliases": {}
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Modules\\Tenant\\": ""
+    }
+  }
+}
